@@ -1,9 +1,9 @@
 #GitHub
-
+Tamira
 #5W2H
 
  - O quê é o GitHub?
-
+é uma plataforma online que desenvolve projetos de software e código e pode desenvolver trabalhos em equipes 
 
  - Por que usar o GitHub?
 
